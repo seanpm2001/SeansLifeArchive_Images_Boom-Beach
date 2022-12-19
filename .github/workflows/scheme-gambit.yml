@@ -1,4 +1,4 @@
-name: Master
+name: Scheme (Gambit)
 
 on: 
    push:
