@@ -3,6 +3,7 @@
 /Branches/
 /Docs/
 /External/
+/Legal/
 /OldVersions/
 /RepoData/
 /.all-contributorsrc
@@ -16,6 +17,7 @@
 /AUTHORS
 /AUTHORS.md
 /AUTOMATE2001.yml
+/AUTOMATE2001.yaml
 /BoomBeach_Icon.png
 /Boom_Beach_logo.png
 /CITATION.cff
@@ -27,6 +29,7 @@
 /INSTALL
 /INSTALL.rst
 /K.desktop
+/LEGAL_DISCLAIMER.md
 /LICENSE-GPL.scm
 /LICENSE-GPL.sld
 /LICENSE-GPL.sls
